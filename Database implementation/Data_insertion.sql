@@ -1,8 +1,8 @@
 USE Tipa_electro_DB;
 GO
 
-BULK INSERT customer
-FROM 'C:\Users\Carlos Dave Sidney\OneDrive\Desktop\Tipa electro solution\Customer.csv'
+BULK INSERT customer   
+FROM '<path_to_data>\Customer.csv'    	--Removed actual path for security and privacy purposes
 WITH (
 		FIRSTROW= 2,
 		FIELDTERMINATOR = ',',
@@ -12,7 +12,7 @@ WITH (
 );
 
 BULK INSERT transactions
-FROM 'C:\Users\Carlos Dave Sidney\OneDrive\Desktop\Tipa electro solution\transactions.csv'
+FROM '<path_to_data>\transactions.csv'			--Removed actual path for security and privacy purposes
 WITH (
 		FIRSTROW= 2,
 		FIELDTERMINATOR = ',',
@@ -22,7 +22,7 @@ WITH (
 );
 
 BULK INSERT transaction_detail
-FROM 'C:\Users\Carlos Dave Sidney\OneDrive\Desktop\Tipa electro solution\TransactionDetail.csv'
+FROM '<path_to_data>\TransactionDetail.csv'			--Removed actual path for security and privacy purposes
 WITH (
 		FIRSTROW= 2,
 		FIELDTERMINATOR = ',',
@@ -32,7 +32,7 @@ WITH (
 );
 
 BULK INSERT products
-FROM 'C:\Users\Carlos Dave Sidney\OneDrive\Desktop\Tipa electro solution\Product.csv'
+FROM '<path_to_data>\Product.csv'			--Removed actual path for security and privacy purposes
 WITH (
 		FORMAT = 'CSV',
 		FIELDQUOTE = '"',

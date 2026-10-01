@@ -1,0 +1,81 @@
+ProductID,ProductName,Category,Brand,Description,UnitPrice,ProductStatus,Supplier
+1,VoltEdge Pro USB-C Cable,Charging Cables,VoltEdge,"VoltEdge Pro USB-C Cable — charging cables from VoltEdge, sold by Global Gadget Supply Co..",7.45,ACTIVE,Global Gadget Supply Co.
+2,AnkerFlow Pro Wall Charger,Wall Chargers,AnkerFlow,"AnkerFlow Pro Wall Charger — wall chargers from AnkerFlow, sold by TechSource Distributors.",30.95,DISCONTINUED,TechSource Distributors
+3,VoltEdge Turbo Power Bank,Power Banks,VoltEdge,"VoltEdge Turbo Power Bank — power banks from VoltEdge, sold by Global Gadget Supply Co..",19.49,ACTIVE,Global Gadget Supply Co.
+4,AuraSound Slim Headphones,Headphones,AuraSound,"AuraSound Slim Headphones — headphones from AuraSound, sold by Apex Accessory Group.",29.11,ACTIVE,Apex Accessory Group
+5,PulseAudio Rapid Earbuds,Earbuds,PulseAudio,"PulseAudio Rapid Earbuds — earbuds from PulseAudio, sold by Circuit Direct Wholesale.",74.54,ACTIVE,Circuit Direct Wholesale
+6,EchoBeat Max Bluetooth Speaker,Bluetooth Speakers,EchoBeat,"EchoBeat Max Bluetooth Speaker — bluetooth speakers from EchoBeat, sold by Global Gadget Supply Co..",98.30,ACTIVE,Global Gadget Supply Co.
+7,ShieldPro Mini Phone Case,Phone Cases,ShieldPro,"ShieldPro Mini Phone Case — phone cases from ShieldPro, sold by Circuit Direct Wholesale.",13.58,ACTIVE,Circuit Direct Wholesale
+8,ArmorLite Slim Screen Protector,Screen Protectors,ArmorLite,"ArmorLite Slim Screen Protector — screen protectors from ArmorLite, sold by Prime Electronics Import.",9.70,ACTIVE,Prime Electronics Import
+9,NovaTech Pro Smartwatch,Smartwatches,NovaTech,"NovaTech Pro Smartwatch — smartwatches from NovaTech, sold by NextGen Components Inc..",244.89,ACTIVE,NextGen Components Inc.
+10,TimeWave Slim Fitness Tracker,Fitness Trackers,TimeWave,"TimeWave Slim Fitness Tracker — fitness trackers from TimeWave, sold by Global Gadget Supply Co..",110.84,ACTIVE,Global Gadget Supply Co.
+11,NovaTech Pro Laptop Stand,Laptop Accessories,NovaTech,"NovaTech Pro Laptop Stand — laptop accessories from NovaTech, sold by Circuit Direct Wholesale.",17.06,ACTIVE,Circuit Direct Wholesale
+12,PortPlus Lite USB Hub,USB Hubs & Adapters,PortPlus,"PortPlus Lite USB Hub — usb hubs & adapters from PortPlus, sold by Prime Electronics Import.",49.26,ACTIVE,Prime Electronics Import
+13,NovaTech Mini Webcam,Webcams,NovaTech,"NovaTech Mini Webcam — webcams from NovaTech, sold by Apex Accessory Group.",38.83,ACTIVE,Apex Accessory Group
+14,DeskMate Pro Wireless Mouse,Keyboards & Mice,DeskMate,"DeskMate Pro Wireless Mouse — keyboards & mice from DeskMate, sold by Apex Accessory Group.",60.68,ACTIVE,Apex Accessory Group
+15,ConnectAll Max HDMI Cable,Cables & Connectors,ConnectAll,"ConnectAll Max HDMI Cable — cables & connectors from ConnectAll, sold by Apex Accessory Group.",20.48,ACTIVE,Apex Accessory Group
+16,RoadCharge Rapid Car Charger,Car Accessories,RoadCharge,"RoadCharge Rapid Car Charger — car accessories from RoadCharge, sold by TechSource Distributors.",16.59,ACTIVE,TechSource Distributors
+17,AnkerFlow Ultra USB-C Cable,Charging Cables,AnkerFlow,"AnkerFlow Ultra USB-C Cable — charging cables from AnkerFlow, sold by TechSource Distributors.",21.49,ACTIVE,TechSource Distributors
+18,AnkerFlow Slim Wall Charger,Wall Chargers,AnkerFlow,"AnkerFlow Slim Wall Charger — wall chargers from AnkerFlow, sold by Apex Accessory Group.",36.54,ACTIVE,Apex Accessory Group
+19,ChargeCore Turbo Power Bank,Power Banks,ChargeCore,"ChargeCore Turbo Power Bank — power banks from ChargeCore, sold by Global Gadget Supply Co..",59.58,ACTIVE,Global Gadget Supply Co.
+20,EchoBeat Max Headphones,Headphones,EchoBeat,"EchoBeat Max Headphones — headphones from EchoBeat, sold by Circuit Direct Wholesale.",63.23,ACTIVE,Circuit Direct Wholesale
+21,PulseAudio Slim Earbuds,Earbuds,PulseAudio,"PulseAudio Slim Earbuds — earbuds from PulseAudio, sold by Circuit Direct Wholesale.",75.70,ACTIVE,Circuit Direct Wholesale
+22,EchoBeat Max Bluetooth Speaker,Bluetooth Speakers,EchoBeat,"EchoBeat Max Bluetooth Speaker — bluetooth speakers from EchoBeat, sold by TechSource Distributors.",78.50,ACTIVE,TechSource Distributors
+23,ShieldPro Max Phone Case,Phone Cases,ShieldPro,"ShieldPro Max Phone Case — phone cases from ShieldPro, sold by Prime Electronics Import.",31.96,ACTIVE,Prime Electronics Import
+24,ClearTech Pro Screen Protector,Screen Protectors,ClearTech,"ClearTech Pro Screen Protector — screen protectors from ClearTech, sold by Prime Electronics Import.",11.39,ACTIVE,Prime Electronics Import
+25,NovaTech Plus Smartwatch,Smartwatches,NovaTech,"NovaTech Plus Smartwatch — smartwatches from NovaTech, sold by TechSource Distributors.",244.50,DISCONTINUED,TechSource Distributors
+26,ActiveByte Pro Fitness Tracker,Fitness Trackers,ActiveByte,"ActiveByte Pro Fitness Tracker — fitness trackers from ActiveByte, sold by Circuit Direct Wholesale.",94.54,ACTIVE,Circuit Direct Wholesale
+27,NovaTech Mini Laptop Stand,Laptop Accessories,NovaTech,"NovaTech Mini Laptop Stand — laptop accessories from NovaTech, sold by Prime Electronics Import.",20.02,ACTIVE,Prime Electronics Import
+28,PortPlus Plus USB Hub,USB Hubs & Adapters,PortPlus,"PortPlus Plus USB Hub — usb hubs & adapters from PortPlus, sold by NextGen Components Inc..",53.79,ACTIVE,NextGen Components Inc.
+29,ClearView Plus Webcam,Webcams,ClearView,"ClearView Plus Webcam — webcams from ClearView, sold by Global Gadget Supply Co..",96.54,ACTIVE,Global Gadget Supply Co.
+30,ClickPro Mini Wireless Mouse,Keyboards & Mice,ClickPro,"ClickPro Mini Wireless Mouse — keyboards & mice from ClickPro, sold by NextGen Components Inc..",72.19,ACTIVE,NextGen Components Inc.
+31,ConnectAll Slim HDMI Cable,Cables & Connectors,ConnectAll,"ConnectAll Slim HDMI Cable — cables & connectors from ConnectAll, sold by Circuit Direct Wholesale.",16.75,ACTIVE,Circuit Direct Wholesale
+32,VoltEdge Lite Car Charger,Car Accessories,VoltEdge,"VoltEdge Lite Car Charger — car accessories from VoltEdge, sold by TechSource Distributors.",11.74,DISCONTINUED,TechSource Distributors
+33,AnkerFlow Flex USB-C Cable,Charging Cables,AnkerFlow,"AnkerFlow Flex USB-C Cable — charging cables from AnkerFlow, sold by NextGen Components Inc..",21.69,DISCONTINUED,NextGen Components Inc.
+34,AnkerFlow Max Wall Charger,Wall Chargers,AnkerFlow,"AnkerFlow Max Wall Charger — wall chargers from AnkerFlow, sold by Global Gadget Supply Co..",30.47,DISCONTINUED,Global Gadget Supply Co.
+35,ChargeCore Rapid Power Bank,Power Banks,ChargeCore,"ChargeCore Rapid Power Bank — power banks from ChargeCore, sold by Global Gadget Supply Co..",59.00,ACTIVE,Global Gadget Supply Co.
+36,AuraSound Lite Headphones,Headphones,AuraSound,"AuraSound Lite Headphones — headphones from AuraSound, sold by Apex Accessory Group.",135.51,ACTIVE,Apex Accessory Group
+37,PulseAudio Mini Earbuds,Earbuds,PulseAudio,"PulseAudio Mini Earbuds — earbuds from PulseAudio, sold by TechSource Distributors.",76.95,ACTIVE,TechSource Distributors
+38,EchoBeat Lite Bluetooth Speaker,Bluetooth Speakers,EchoBeat,"EchoBeat Lite Bluetooth Speaker — bluetooth speakers from EchoBeat, sold by NextGen Components Inc..",31.72,ACTIVE,NextGen Components Inc.
+39,ShieldPro Slim Phone Case,Phone Cases,ShieldPro,"ShieldPro Slim Phone Case — phone cases from ShieldPro, sold by Apex Accessory Group.",17.71,ACTIVE,Apex Accessory Group
+40,ShieldPro Lite Screen Protector,Screen Protectors,ShieldPro,"ShieldPro Lite Screen Protector — screen protectors from ShieldPro, sold by Circuit Direct Wholesale.",6.94,ACTIVE,Circuit Direct Wholesale
+41,PulseFit Rapid Smartwatch,Smartwatches,PulseFit,"PulseFit Rapid Smartwatch — smartwatches from PulseFit, sold by Global Gadget Supply Co..",105.22,ACTIVE,Global Gadget Supply Co.
+42,ActiveByte Max Fitness Tracker,Fitness Trackers,ActiveByte,"ActiveByte Max Fitness Tracker — fitness trackers from ActiveByte, sold by NextGen Components Inc..",97.87,DISCONTINUED,NextGen Components Inc.
+43,PortPlus Lite Laptop Stand,Laptop Accessories,PortPlus,"PortPlus Lite Laptop Stand — laptop accessories from PortPlus, sold by Global Gadget Supply Co..",50.31,ACTIVE,Global Gadget Supply Co.
+44,PortPlus Pro USB Hub,USB Hubs & Adapters,PortPlus,"PortPlus Pro USB Hub — usb hubs & adapters from PortPlus, sold by Prime Electronics Import.",40.34,ACTIVE,Prime Electronics Import
+45,FocusTech Ultra Webcam,Webcams,FocusTech,"FocusTech Ultra Webcam — webcams from FocusTech, sold by TechSource Distributors.",82.24,DISCONTINUED,TechSource Distributors
+46,ClickPro Turbo Wireless Mouse,Keyboards & Mice,ClickPro,"ClickPro Turbo Wireless Mouse — keyboards & mice from ClickPro, sold by TechSource Distributors.",69.62,ACTIVE,TechSource Distributors
+47,ConnectAll Lite HDMI Cable,Cables & Connectors,ConnectAll,"ConnectAll Lite HDMI Cable — cables & connectors from ConnectAll, sold by Prime Electronics Import.",13.14,ACTIVE,Prime Electronics Import
+48,DriveTech Plus Car Charger,Car Accessories,DriveTech,"DriveTech Plus Car Charger — car accessories from DriveTech, sold by TechSource Distributors.",23.88,DISCONTINUED,TechSource Distributors
+49,BoltLine Rapid USB-C Cable,Charging Cables,BoltLine,"BoltLine Rapid USB-C Cable — charging cables from BoltLine, sold by NextGen Components Inc..",8.76,ACTIVE,NextGen Components Inc.
+50,AnkerFlow Pro Wall Charger,Wall Chargers,AnkerFlow,"AnkerFlow Pro Wall Charger — wall chargers from AnkerFlow, sold by Global Gadget Supply Co..",37.94,ACTIVE,Global Gadget Supply Co.
+51,ChargeCore Flex Power Bank,Power Banks,ChargeCore,"ChargeCore Flex Power Bank — power banks from ChargeCore, sold by TechSource Distributors.",40.62,DISCONTINUED,TechSource Distributors
+52,SonicWave Turbo Headphones,Headphones,SonicWave,"SonicWave Turbo Headphones — headphones from SonicWave, sold by Prime Electronics Import.",25.33,ACTIVE,Prime Electronics Import
+53,EchoBeat Turbo Earbuds,Earbuds,EchoBeat,"EchoBeat Turbo Earbuds — earbuds from EchoBeat, sold by NextGen Components Inc..",110.56,ACTIVE,NextGen Components Inc.
+54,PulseAudio Flex Bluetooth Speaker,Bluetooth Speakers,PulseAudio,"PulseAudio Flex Bluetooth Speaker — bluetooth speakers from PulseAudio, sold by TechSource Distributors.",41.25,ACTIVE,TechSource Distributors
+55,CaseCraft Rapid Phone Case,Phone Cases,CaseCraft,"CaseCraft Rapid Phone Case — phone cases from CaseCraft, sold by TechSource Distributors.",12.13,ACTIVE,TechSource Distributors
+56,ClearTech Flex Screen Protector,Screen Protectors,ClearTech,"ClearTech Flex Screen Protector — screen protectors from ClearTech, sold by Global Gadget Supply Co..",13.04,DISCONTINUED,Global Gadget Supply Co.
+57,PulseFit Rapid Smartwatch,Smartwatches,PulseFit,"PulseFit Rapid Smartwatch — smartwatches from PulseFit, sold by NextGen Components Inc..",75.22,ACTIVE,NextGen Components Inc.
+58,PulseFit Lite Fitness Tracker,Fitness Trackers,PulseFit,"PulseFit Lite Fitness Tracker — fitness trackers from PulseFit, sold by NextGen Components Inc..",72.30,DISCONTINUED,NextGen Components Inc.
+59,DeskMate Slim Laptop Stand,Laptop Accessories,DeskMate,"DeskMate Slim Laptop Stand — laptop accessories from DeskMate, sold by Prime Electronics Import.",41.75,ACTIVE,Prime Electronics Import
+60,DeskMate Slim USB Hub,USB Hubs & Adapters,DeskMate,"DeskMate Slim USB Hub — usb hubs & adapters from DeskMate, sold by Circuit Direct Wholesale.",36.30,ACTIVE,Circuit Direct Wholesale
+61,ClearView Mini Webcam,Webcams,ClearView,"ClearView Mini Webcam — webcams from ClearView, sold by Apex Accessory Group.",45.29,ACTIVE,Apex Accessory Group
+62,GlideTech Plus Wireless Mouse,Keyboards & Mice,GlideTech,"GlideTech Plus Wireless Mouse — keyboards & mice from GlideTech, sold by TechSource Distributors.",49.29,DISCONTINUED,TechSource Distributors
+63,ConnectAll Flex HDMI Cable,Cables & Connectors,ConnectAll,"ConnectAll Flex HDMI Cable — cables & connectors from ConnectAll, sold by TechSource Distributors.",24.77,ACTIVE,TechSource Distributors
+64,DriveTech Rapid Car Charger,Car Accessories,DriveTech,"DriveTech Rapid Car Charger — car accessories from DriveTech, sold by Circuit Direct Wholesale.",16.39,ACTIVE,Circuit Direct Wholesale
+65,AnkerFlow Lite USB-C Cable,Charging Cables,AnkerFlow,"AnkerFlow Lite USB-C Cable — charging cables from AnkerFlow, sold by NextGen Components Inc..",13.65,ACTIVE,NextGen Components Inc.
+66,VoltEdge Plus Wall Charger,Wall Chargers,VoltEdge,"VoltEdge Plus Wall Charger — wall chargers from VoltEdge, sold by Apex Accessory Group.",29.13,DISCONTINUED,Apex Accessory Group
+67,VoltEdge Ultra Power Bank,Power Banks,VoltEdge,"VoltEdge Ultra Power Bank — power banks from VoltEdge, sold by Apex Accessory Group.",49.39,ACTIVE,Apex Accessory Group
+68,SonicWave Max Headphones,Headphones,SonicWave,"SonicWave Max Headphones — headphones from SonicWave, sold by Apex Accessory Group.",65.99,DISCONTINUED,Apex Accessory Group
+69,PulseAudio Max Earbuds,Earbuds,PulseAudio,"PulseAudio Max Earbuds — earbuds from PulseAudio, sold by Apex Accessory Group.",55.41,ACTIVE,Apex Accessory Group
+70,AuraSound Lite Bluetooth Speaker,Bluetooth Speakers,AuraSound,"AuraSound Lite Bluetooth Speaker — bluetooth speakers from AuraSound, sold by NextGen Components Inc..",97.19,DISCONTINUED,NextGen Components Inc.
+71,ArmorLite Plus Phone Case,Phone Cases,ArmorLite,"ArmorLite Plus Phone Case — phone cases from ArmorLite, sold by TechSource Distributors.",41.69,ACTIVE,TechSource Distributors
+72,ClearTech Turbo Screen Protector,Screen Protectors,ClearTech,"ClearTech Turbo Screen Protector — screen protectors from ClearTech, sold by Circuit Direct Wholesale.",17.61,ACTIVE,Circuit Direct Wholesale
+73,PulseFit Plus Smartwatch,Smartwatches,PulseFit,"PulseFit Plus Smartwatch — smartwatches from PulseFit, sold by Apex Accessory Group.",90.70,ACTIVE,Apex Accessory Group
+74,TimeWave Rapid Fitness Tracker,Fitness Trackers,TimeWave,"TimeWave Rapid Fitness Tracker — fitness trackers from TimeWave, sold by Apex Accessory Group.",40.77,ACTIVE,Apex Accessory Group
+75,DeskMate Rapid Laptop Stand,Laptop Accessories,DeskMate,"DeskMate Rapid Laptop Stand — laptop accessories from DeskMate, sold by NextGen Components Inc..",16.62,ACTIVE,NextGen Components Inc.
+76,PortPlus Turbo USB Hub,USB Hubs & Adapters,PortPlus,"PortPlus Turbo USB Hub — usb hubs & adapters from PortPlus, sold by TechSource Distributors.",17.48,ACTIVE,TechSource Distributors
+77,FocusTech Lite Webcam,Webcams,FocusTech,"FocusTech Lite Webcam — webcams from FocusTech, sold by Circuit Direct Wholesale.",82.98,ACTIVE,Circuit Direct Wholesale
+78,GlideTech Turbo Wireless Mouse,Keyboards & Mice,GlideTech,"GlideTech Turbo Wireless Mouse — keyboards & mice from GlideTech, sold by Global Gadget Supply Co..",88.04,ACTIVE,Global Gadget Supply Co.
+79,ConnectAll Max HDMI Cable,Cables & Connectors,ConnectAll,"ConnectAll Max HDMI Cable — cables & connectors from ConnectAll, sold by Apex Accessory Group.",31.80,ACTIVE,Apex Accessory Group
+80,VoltEdge Turbo Car Charger,Car Accessories,VoltEdge,"VoltEdge Turbo Car Charger — car accessories from VoltEdge, sold by Global Gadget Supply Co..",34.07,DISCONTINUED,Global Gadget Supply Co.

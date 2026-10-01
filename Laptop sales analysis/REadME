@@ -1,0 +1,39 @@
+# Sales Revenue Analysis & Prediction
+
+Built a regression model in Python to forecast e-commerce sales revenue and identify which marketing and pricing factors drive it.
+
+## Question / Objective
+- Which marketing channels generate the most revenue relative to ad spend?
+- Can sales revenue be predicted from ad spend, click-through rate, price, and related variables?
+
+## Data
+- **Source:** Kaggle
+- **Size:** about 18,000 observations, 18 variables
+- **Period:** 2008-2011
+- **Scope:** e-commerce store sales and advertising data
+
+## Tools
+Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebook
+
+## Approach
+1. **Cleaning:** imputed missing values and handled outliers.
+2. **Exploratory analysis:** examined revenue distributions (right-skewed), revenue vs. ad spend over time, and performance by marketing channel.
+3. **Modeling:** fit a linear regression to predict sales revenue.
+4. **Improvement:** applied a log transformation to address underprediction of high-revenue periods and improve fit.
+
+## Key Findings
+- **Social media was the top channel**, producing roughly $700K in revenue on about $200K in ad spend.
+- **Click-through rate** was the strongest positive driver of revenue [.097].
+- **Price** had a negative relationship with revenue [-0.142].
+
+
+
+
+## How to Run
+```bash
+git clone [repo-url]
+cd sales-revenue-prediction
+pip install -r requirements.txt
+jupyter notebook notebooks/sales_prediction.ipynb
+```
+Download the dataset from the link in report.

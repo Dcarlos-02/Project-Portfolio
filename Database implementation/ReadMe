@@ -1,0 +1,53 @@
+# Tipa Electro Retail Database | MS_SQL Server
+
+Designed and implemented a relational database for a fictional electronics retailer, modeling customers, membership tiers, products, and sales transactions. Built to support analysis of sales trends, customer behavior, and membership performance.
+
+## Business Scenario
+Tipa Electro sells electronics to customers who can hold different membership tiers with annual fees and discounts. The database tracks who buys what, when, how they pay, and what discounts apply.
+
+## Schema
+Five related tables:
+
+| Table | Purpose |
+|---|---|
+| `membership` | Membership tiers, annual fee, discount percentage, duration |
+| `customer` | Customer contact details, status, and membership |
+| `products` | Product catalog with category, brand, price, and status |
+| `transactions` | Order header: customer, date, payment method, totals, status |
+| `transaction_detail` | Order line items: product, quantity, price, discount, line total |
+
+
+
+## Implementation Highlights
+- **DDL:** created all tables with primary keys and foreign keys linking customers to memberships, transactions to customers, and line items to transactions and products.
+- **Data validation:** `NOT NULL` and `CHECK` constraints (e.g., non-negative fees and amounts, discount between 0 and 100, positive quantities, restricted status values).
+- **Indexing:** seven indexes on foreign key columns, transaction date, and product category/status to speed up joins and filters.
+- **Data loading:** populated tables from CSV files of synthetic data using `BULK INSERT`.
+
+## Files
+```
+sql/
+├── 01_database_implementation.sql   # table creation and indexes
+├── 02_data_insertion.sql            # BULK INSERT scripts
+└── 03_analysis_queries.sql          # planned DML analysis (in progress)
+```
+
+## Planned Analysis (DML)
+- Monthly revenue and transaction volume
+- Top products and categories by revenue
+- Average spend and discount usage by membership tier
+- Customer segmentation by purchase frequency
+- Refund and cancellation rates by payment method
+
+*Move items from this list into `03_analysis_queries.sql` with a short finding as you complete them.*
+
+## Known Improvements
+- Convert `transaction_date` from `VARCHAR(50)` to `DATE` to support time-based analysis.
+- Change `transactions.discount_amount` to `DECIMAL(10,2)` so cents are kept.
+- Load all required membership tiers before importing customers so foreign keys resolve.
+
+## How to Run
+1. Create a database named `Tipa_electro_DB` in SQL Server.
+2. Run `sql/01_database_implementation.sql`.
+3. Update the file paths in `sql/02_data_insertion.sql` to point to the `data/` folder on your machine, then run it.
+4. Run the queries in `sql/03_analysis_queries.sql`.
